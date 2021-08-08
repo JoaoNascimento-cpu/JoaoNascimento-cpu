@@ -15,7 +15,7 @@
   </div>
 </div>
   <div>
-  <a align="left" href="https://github.com/SamuelLuzSantana">
+  <a align="left" href="https://github.com/JoaoNascimento-cpu">
   <img height="200em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=JoaoNascimento-cpu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascimento-cpu&layout=compact&langs_count=7&theme=react"/>
 </div>
