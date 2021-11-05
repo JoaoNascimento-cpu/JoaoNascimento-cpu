@@ -1,10 +1,9 @@
 # <div align="center"> Oi, Eu sou sou o João Nascimento</div>
 <div align="justify">
-  Sou um jovem de 21 anos que começou a estudar programação em 2020 na escola senai de informática <br> e irei me formar no final de 2021, sempre procurando me desenvolver nesta área.
+  Sou um jovem de 21 anos que começou a estudar programação em 2020 na escola SENAI de informática <br> e irei me formar no final de 2021, assim procurando me desenvolver melhor nesta área que passei a me interessar recentemente.
 </div>
  <br>
 - Procuro me especializar melhor na área de backend.
--
 <hr>
 <div>
   <h1>Meus contatos</h1>
