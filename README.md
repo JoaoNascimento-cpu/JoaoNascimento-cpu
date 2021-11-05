@@ -8,7 +8,7 @@
 <div>
   <h1>Meus contatos</h1>
   <div style = justify content: space around>
-  <a href = "mailto:Jhonyzito4gb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Black" target="_blank"></a>
+  <a href = "mailto:joaoncs21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/joão-pedro-nascimento-bezerra-2699661b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <hr>
   </div>
