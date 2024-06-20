@@ -1,5 +1,5 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-# <div align="center"> Oi, Eu sou sou o João Nascimento, ou Johnny! ✨</div>
+# <div align="center"> Oi, Eu sou sou o João Pedro! 👨‍💻</div>
 <div align="justify">
   Eu tenho objetivo entender  melhor o ambiente corporativo, com dinâmicas e metodologias ágeis; ter a possibilidade de trabalhar com uma equipe diversa principalmente no campo das ideias para aprimoramento de minhas soft skills, além de ter pratica e planejamento em projetos reais.
 </div>
