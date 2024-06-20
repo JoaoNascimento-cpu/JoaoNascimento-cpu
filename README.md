@@ -1,7 +1,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 # <div align="center"> Oi, Eu sou sou o João Nascimento, ou Johnny! ✨</div>
 <div align="justify">
-  Sou um jovem de 21 anos que começou a estudar programação em 2020 na escola SENAI de informática <br> e irei me formar no final de 2021, assim procurando me desenvolver melhor nesta área que passei a me interessar recentemente.
+  Eu tenho objetivo entender  melhor o ambiente corporativo, com dinâmicas e metodologias ágeis; ter a possibilidade de trabalhar com uma equipe diversa principalmente no campo das ideias para aprimoramento de minhas soft skills, além de ter pratica e planejamento em projetos reais.
 </div>
  <br>
 - Procuro me especializar melhor na área de backend.
